@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RegistroBasico_Phyton", "RegistroBasico_Phyton\RegistroBasico_Phyton.pyproj", "{EBAC2F82-4F9C-42F4-AA0C-0B00B8E9A540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBAC2F82-4F9C-42F4-AA0C-0B00B8E9A540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAC2F82-4F9C-42F4-AA0C-0B00B8E9A540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C188D372-FD84-459C-8691-1CF8C0AD5B92}
+	EndGlobalSection
+EndGlobal
